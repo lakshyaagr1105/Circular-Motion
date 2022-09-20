@@ -26,6 +26,11 @@ To deploy this project run
 ```bash
   npm start
 ```
+
+
+
+
 ## Screenshot
 <img width="1440" alt="Screenshot 2022-09-20 at 3 41 31 PM" src="https://user-images.githubusercontent.com/95195831/191234065-6d1cd0b4-0afa-4529-8abd-3b7f11192820.png">
 
+https://user-images.githubusercontent.com/95195831/191236014-072f3ebd-30e7-4a07-bae4-d5847bdb1827.mov
